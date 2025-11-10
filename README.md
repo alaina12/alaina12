@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alaina Umme Hafiza
 ==========================================================================================================================================
 
-AI Enthusiast
+Software Engineer
 -------------
 
 Hello! I'm Alaina, a passionate Software Engineer with interests in Full Stack Development, Artificial Intelligence, and Machine Learning. I enjoy building innovative solutions using Python, JavaScript, React.js, Node.js, HTML, and CSS. I’m especially fascinated by the potential of Generative AI and LLMs to transform how we interact with technology.
