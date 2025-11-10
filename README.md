@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI Enthusiast
 -------------
 
-Hello! I'm Alaina, a final-year Computer Science Engineering student with a passion for Artificial Intelligence and Machine Learning. I have a strong inclination towards developing innovative solutions using Python and am especially fascinated by the potential of Generative AI to transform how we interact with technology. Over my academic journey, I have created several hands-on projects and completed certifications in Generative AI, which have deepened my understanding of core AI and ML concepts. My projects range from practical tools to experimental models, each aimed at solving real-world problems or enhancing everyday tasks. I'm always exploring new ways to leverage AI/ML to make a meaningful impact. Currently, I'm focused on expanding my knowledge in advanced ML techniques and staying updated with the latest advancements in AI. Feel free to browse through my repositories to see my work, and don't hesitate to reach out for collaborations or discussions!
+Hello! I'm Alaina, a passionate Software Engineer with interests in Full Stack Development, Artificial Intelligence, and Machine Learning. I enjoy building innovative solutions using Python, JavaScript, React.js, Node.js, HTML, and CSS. I’m especially fascinated by the potential of Generative AI and LLMs to transform how we interact with technology.
+
+Over my journey, I’ve developed several hands-on projects and gained practical experience working on AI-based applications at IgniteIQ, where I contributed to real-world AI solutions, intrested in CI/CD pipelines, and wrote robust unit and integration tests using Pytest. I’ve also earned certifications in Generative AI, deepening my understanding of advanced ML techniques and cloud technologies like AWS.
+
+I’m constantly exploring new ways to combine AI and software engineering to create impactful, scalable, and intelligent systems. Feel free to check out my repositories and connect for collaborations or discussions!
 
 * 🌍  I'm based in Bangalore
 * ✉️  You can contact me at [mail2alaina@gmail.com](mailto:mail2alaina@gmail.com)
